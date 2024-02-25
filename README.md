@@ -2,6 +2,8 @@
 
 A logo i've created for https://botsin.space/@DailyScry
 
+![Rendered logo](https://github.com/mrdrogdrog/crystalball_graphic/blob/main/1024.png?raw=true)
+
 
 # License
 
