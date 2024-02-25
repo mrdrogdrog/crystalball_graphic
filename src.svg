@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.26020258"
-     inkscape:cx="269.02116"
-     inkscape:cy="297.84486"
+     inkscape:zoom="0.56805557"
+     inkscape:cx="580.92909"
+     inkscape:cy="492.02933"
      inkscape:window-width="1512"
      inkscape:window-height="916"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3"
+     inkscape:current-layer="g11"
      showborder="false" />
   <defs
      id="defs1">
@@ -55,7 +55,7 @@
        id="linearGradient7"
        inkscape:collect="always">
       <stop
-         style="stop-color:#f5f5f5;stop-opacity:1;"
+         style="stop-color:#f5f5f5;stop-opacity:0;"
          offset="0.03268763"
          id="stop5" />
       <stop
@@ -71,7 +71,7 @@
        id="linearGradient2"
        inkscape:collect="always">
       <stop
-         style="stop-color:#f5f5f5;stop-opacity:1;"
+         style="stop-color:#f5f5f5;stop-opacity:0;"
          offset="0.31598061"
          id="stop2" />
       <stop
@@ -328,6 +328,45 @@
        r="101.33061"
        gradientTransform="matrix(1,0,0,0.47927274,0,120.85318)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter16"
+       x="-0.13233778"
+       y="-0.067335595"
+       width="1.2646756"
+       height="1.1346712">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.6589193"
+         id="feGaussianBlur16" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17"
+       x="-0.083149004"
+       y="-0.053652722"
+       width="1.166298"
+       height="1.1073054">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.7139647"
+         id="feGaussianBlur17" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18"
+       x="-0.032257576"
+       y="-0.033408705"
+       width="1.0645152"
+       height="1.0668174">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.47225334"
+         id="feGaussianBlur18" />
+    </filter>
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -369,7 +408,7 @@
            cy="198.18819"
            rx="56.730751"
            ry="76.729362"
-           transform="matrix(0.7136296,0,0,0.33333333,2.3854983,141.50174)" />
+           transform="matrix(0.7136296,0,0,0.33333333,7.5089701,140.5702)" />
       </g>
       <g
          id="g13"
@@ -382,13 +421,79 @@
            r="110.05605"
            inkscape:label="bulb shadow" />
         <circle
+           style="display:inline;opacity:0.823529;fill:#ffffff;fill-opacity:1;stroke-width:1.70289;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+           id="path1-6-13"
+           cx="135.46666"
+           cy="114.3658"
+           r="107.37712" />
+        <g
+           id="g15"
+           style="opacity:0.48325359;mix-blend-mode:normal;filter:url(#filter17)"
+           transform="matrix(0.88054601,0.07877958,-0.20089624,0.85373683,38.983684,3.6360366)">
+          <rect
+             style="opacity:1;fill:#914a00;fill-opacity:1;stroke-width:4.89506;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+             id="rect17"
+             width="107.1993"
+             height="166.13351"
+             x="81.649345"
+             y="30.562309"
+             ry="6.7809601" />
+          <ellipse
+             style="opacity:0.648325;fill:#f4b85a;fill-opacity:1;stroke-width:7.79034;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill;filter:url(#filter16)"
+             id="path2"
+             cx="135.46666"
+             cy="111.00971"
+             rx="51.313412"
+             ry="100.84864"
+             transform="matrix(0.78688664,0,0,0.68920968,28.869756,34.500744)" />
+          <g
+             id="g14"
+             style="filter:url(#filter18)">
+            <circle
+               style="opacity:1;fill:#ffff00;fill-opacity:1;stroke-width:4.19167;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+               id="path4"
+               cx="-141.60504"
+               cy="95.318214"
+               r="4.7096848"
+               transform="matrix(-0.99829165,-0.05842751,-0.05842751,0.99829165,0,0)" />
+            <circle
+               style="opacity:1;fill:#034bff;fill-opacity:1;stroke-width:4.19167;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+               id="path4-9"
+               cx="179.53075"
+               cy="-50.82164"
+               r="4.7096848"
+               transform="matrix(0.93137657,0.36405725,0.36405725,-0.93137657,0,0)" />
+            <circle
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:4.19167;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+               id="path4-9-9"
+               cx="-185.26746"
+               cy="-52.179943"
+               r="4.7096848"
+               transform="matrix(-0.53951316,-0.84197717,-0.84197717,0.53951316,0,0)" />
+            <circle
+               style="opacity:1;fill:#ff0000;fill-opacity:1;stroke-width:4.19167;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+               id="path4-9-9-8"
+               cx="120.23825"
+               cy="135.2509"
+               r="4.7096848"
+               transform="matrix(-0.05842714,0.99829168,0.99829168,0.05842714,0,0)" />
+            <circle
+               style="opacity:1;fill:#00ff00;fill-opacity:1;stroke-width:4.19167;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+               id="path4-9-9-8-2"
+               cx="-9.2821188"
+               cy="-166.66049"
+               r="4.7096848"
+               transform="matrix(0.63404981,-0.7732922,-0.7732922,-0.63404981,0,0)" />
+          </g>
+        </g>
+        <circle
            style="display:inline;opacity:0.823529;fill:url(#radialGradient3);fill-opacity:1;stroke-width:1.74537;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
            id="path1"
            cx="135.46666"
            cy="114.3658"
            r="110.05605" />
         <circle
-           style="opacity:0.823529;fill:url(#radialGradient3-5);fill-opacity:1;stroke-width:1.70289;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
+           style="display:inline;opacity:0.823529;fill:url(#radialGradient3-5);fill-opacity:1;stroke-width:1.70289;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0;paint-order:stroke markers fill"
            id="path1-6"
            cx="135.46666"
            cy="114.3658"
