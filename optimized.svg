@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 270.93 270.93" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient3" cx="135.47" cy="114.37" r="110.06" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5f5f5" offset=".31598"/>
+   <stop stop-color="#1a2860" offset=".977"/>
+   <stop stop-color="#4f555b" offset="1"/>
+  </radialGradient>
+  <filter id="filter3" x="-.76846" y="-.56817" width="2.5369" height="2.1363" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="36.329516"/>
+  </filter>
+  <filter id="filter3-7" x="-.90163" y="-.66663" width="2.8033" height="2.3333" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="42.625356"/>
+  </filter>
+  <clipPath id="clipPath4">
+   <rect width="270.93" height="270.93" ry="0" fill="#440069" stroke-miterlimit="0" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+  </clipPath>
+  <filter id="filter3-7-2" x="-.90163" y="-.66663" width="2.8033" height="2.3333" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="42.625356"/>
+  </filter>
+  <filter id="filter4" x="-.1276" y="-.1276" width="1.2552" height="1.2552" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="11.702558"/>
+  </filter>
+  <radialGradient id="radialGradient3-5" cx="135.47" cy="114.37" r="110.06" gradientTransform="matrix(.97566 0 0 .97566 3.2975 2.7838)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5f5f5" offset=".032688"/>
+   <stop stop-color="#3e2852" offset=".977"/>
+   <stop stop-color="#5a5a5a" offset="1"/>
+  </radialGradient>
+  <filter id="filter7" x="-.17223" y="-.081225" width="1.3365" height="1.1608" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.6276879"/>
+  </filter>
+  <filter id="filter8" x="-.24428" y="-.12853" width="1.4965" height="1.265" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.0869487"/>
+  </filter>
+  <filter id="filter8-8" x="-.27007" y="-.34504" width="1.5481" height="1.6821" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.6937008"/>
+  </filter>
+  <filter id="filter8-8-1" x="-.16095" y="-.70529" width="1.3195" height="2.4186" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.6937008"/>
+  </filter>
+  <filter id="filter9" x="-.35993" y="-.33646" width="1.7199" height="1.6729" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.2734821"/>
+  </filter>
+  <filter id="filter9-1" x="-.61399" y="-.57395" width="2.228" height="2.1479" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.2898554"/>
+  </filter>
+  <filter id="filter10" x="-.35529" y="-.3503" width="1.7106" height="1.7006" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.3440159"/>
+  </filter>
+  <filter id="filter11" x="-.21652" y="-.21348" width="1.433" height="1.427" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.4285151"/>
+  </filter>
+  <filter id="filter1" x="-.10605" y="-.28752" width="1.2121" height="1.575" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.3879268"/>
+  </filter>
+  <radialGradient id="radialGradient8" cx="135.47" cy="232.09" r="101.33" gradientTransform="matrix(1 0 0 .47927 0 120.85)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5b08ae" offset="0"/>
+   <stop stop-color="#20233e" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g clip-path="url(#clipPath4)">
+  <g stroke-miterlimit="0" stroke-opacity="0">
+   <rect width="270.93" height="270.93" ry="0" fill="#5c008e" style="paint-order:stroke markers fill"/>
+   <ellipse cx="60.812" cy="71.832" rx="56.731" ry="76.729" fill="#370089" filter="url(#filter3)" style="paint-order:stroke markers fill"/>
+   <ellipse cx="247.85" cy="131.3" rx="56.731" ry="76.729" fill="#360089" filter="url(#filter3-7)" style="mix-blend-mode:normal;paint-order:stroke markers fill"/>
+   <ellipse transform="matrix(.71363 0 0 .33333 2.3855 141.5)" cx="83.169" cy="198.19" rx="56.731" ry="76.729" fill="#4700b8" filter="url(#filter3-7-2)" style="mix-blend-mode:normal;paint-order:stroke markers fill"/>
+  </g>
+  <g>
+   <circle cx="135.47" cy="114.37" r="110.06" fill="#bbb" filter="url(#filter4)" opacity=".65729" style="mix-blend-mode:normal;paint-order:stroke markers fill"/>
+   <circle cx="135.47" cy="114.37" r="110.06" fill="url(#radialGradient3)" opacity=".82353" stroke-miterlimit="0" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+   <circle cx="135.47" cy="114.37" r="107.38" fill="url(#radialGradient3-5)" opacity=".82353" stroke-miterlimit="0" stroke-opacity="0" style="paint-order:stroke markers fill"/>
+  </g>
+  <g fill="none" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.4374">
+   <path d="m226.1 114.37a90.634 90.634 0 0 1-41.741 76.315" filter="url(#filter8)" opacity=".82353" stop-color="#000000" stroke="#000" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke markers fill"/>
+   <path d="m162.85 27.967a90.634 90.634 0 0 1 51.402 41.59" filter="url(#filter8-8)" opacity=".82353" stroke="#f1f1f1" style="paint-order:stroke markers fill"/>
+   <path d="m166.18 199.64a90.634 90.634 0 0 1-87.71-14.805" filter="url(#filter8-8-1)" opacity=".82353" stroke="#e4e4e4" style="paint-order:stroke markers fill"/>
+   <path d="m65.318 171.76a90.634 90.634 0 0 1-15.88-85.912 90.634 90.634 0 0 1 64.059-59.409" filter="url(#filter7)" opacity=".82353" stroke="#000" style="paint-order:stroke markers fill"/>
+  </g>
+  <g>
+   <ellipse cx="106.36" cy="72.232" rx="14.248" ry="15.242" fill="#fff" filter="url(#filter9)" opacity=".82353" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke markers fill"/>
+   <ellipse transform="matrix(.58226 0 0 .55553 78.849 78.501)" cx="172.12" cy="160.99" rx="14.248" ry="15.242" fill="#bfbfbf" filter="url(#filter9-1)" opacity=".82353" style="-inkscape-stroke:none;font-variation-settings:normal;paint-order:stroke markers fill"/>
+   <path transform="rotate(-51.883 172.91 138.53)" d="m101.26 109.7-4.367-3.5729-5.419 1.5719 2.0485-5.2573-3.1695-4.668 5.6331 0.32365 3.4601-4.4569 1.4329 5.4574 5.308 1.9135-4.7475 3.0492z" fill="#5a008e" filter="url(#filter11)" opacity=".33376" style="-inkscape-stroke:none;font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+   <path transform="translate(92.896 -47.407)" d="m101.26 109.7-4.367-3.5729-5.419 1.5719 2.0485-5.2573-3.1695-4.668 5.6331 0.32365 3.4601-4.4569 1.4329 5.4574 5.308 1.9135-4.7475 3.0492z" fill="#3f0082" filter="url(#filter10)" opacity=".49744" style="-inkscape-stroke:none;font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+  </g>
+  <g>
+   <g fill="#313544" stroke="#3a3a3a" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="5.2">
+    <path d="m59.073 222.27-5.6007 2.421c-2.9727 9.6788-1.2098 17.539 0.43667 20.798 14.193 10.066 53.758 17.428 81.558 17.428s67.364-7.3623 81.558-17.428c1.6465-3.259 3.4094-11.119 0.43667-20.798l-5.6007-2.421c-17.05 8.4978-51.434 14.441-76.394 14.441s-59.344-5.9432-76.394-14.441z" stop-color="#000000" style="font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+    <path d="m65.038 201.25-5.1634 2.4098c-2.7406 9.6338-1.1153 17.458 0.40257 20.702 13.085 10.019 49.561 17.347 75.19 17.347 25.629 0 62.104-7.328 75.19-17.347 1.5179-3.2438 3.1432-11.068 0.40257-20.702l-5.1634-2.4098c-15.718 8.4582-47.418 14.374-70.429 14.374-23.011 0-54.71-5.9156-70.429-14.374z" stop-color="#000000" style="font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+   </g>
+   <g fill="url(#radialGradient8)" filter="url(#filter1)" opacity=".3913">
+    <path d="m59.073 222.27-5.6007 2.421c-2.9727 9.6788-1.2098 17.539 0.43667 20.798 14.193 10.066 53.758 17.428 81.558 17.428s67.364-7.3623 81.558-17.428c1.6465-3.259 3.4094-11.119 0.43667-20.798l-5.6007-2.421c-17.05 8.4978-51.434 14.441-76.394 14.441s-59.344-5.9432-76.394-14.441z" stop-color="#000000" style="font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+    <path d="m65.038 201.25-5.1634 2.4098c-2.7406 9.6338-1.1153 17.458 0.40257 20.702 13.085 10.019 49.561 17.347 75.19 17.347 25.629 0 62.104-7.328 75.19-17.347 1.5179-3.2438 3.1432-11.068 0.40257-20.702l-5.1634-2.4098c-15.718 8.4582-47.418 14.374-70.429 14.374-23.011 0-54.71-5.9156-70.429-14.374z" stop-color="#000000" style="font-variation-settings:normal;mix-blend-mode:normal;paint-order:stroke markers fill"/>
+   </g>
+  </g>
+ </g>
+</svg>
